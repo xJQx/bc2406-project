@@ -1,304 +1,304 @@
-,age,sex,chest_pain,resting_blood_pressure,chol,fasting_blood_sugar,rest_ecg,max_heart_rate,exercise_induced_angina,num_of_major_vessels,thal_rate,heart_attack_chance
-0,63,Male,non-anginal pain,145,233,True,normal,150,No,0,1,more chance
-1,37,Male,atypical angina,130,250,False,having ST-T wave abnormality,187,No,0,2,more chance
-2,41,Female,typical angina,130,204,False,normal,172,No,0,2,more chance
-3,56,Male,typical angina,120,236,False,having ST-T wave abnormality,178,No,0,2,more chance
-4,57,Female,0,120,354,False,having ST-T wave abnormality,163,Yes,0,2,more chance
-5,57,Male,0,140,192,False,having ST-T wave abnormality,148,No,0,1,more chance
-6,56,Female,typical angina,140,294,False,normal,153,No,0,2,more chance
-7,44,Male,typical angina,120,263,False,having ST-T wave abnormality,173,No,0,3,more chance
-8,52,Male,atypical angina,172,199,True,having ST-T wave abnormality,162,No,0,3,more chance
-9,57,Male,atypical angina,150,168,False,having ST-T wave abnormality,174,No,0,2,more chance
-10,54,Male,0,140,239,False,having ST-T wave abnormality,160,No,0,2,more chance
-11,48,Female,atypical angina,130,275,False,having ST-T wave abnormality,139,No,0,2,more chance
-12,49,Male,typical angina,130,266,False,having ST-T wave abnormality,171,No,0,2,more chance
-13,64,Male,non-anginal pain,110,211,False,normal,144,Yes,0,2,more chance
-14,58,Female,non-anginal pain,150,283,True,normal,162,No,0,2,more chance
-15,50,Female,atypical angina,120,219,False,having ST-T wave abnormality,158,No,0,2,more chance
-16,58,Female,atypical angina,120,340,False,having ST-T wave abnormality,172,No,0,2,more chance
-17,66,Female,non-anginal pain,150,226,False,having ST-T wave abnormality,114,No,0,2,more chance
-18,43,Male,0,150,247,False,having ST-T wave abnormality,171,No,0,2,more chance
-19,69,Female,non-anginal pain,140,239,False,having ST-T wave abnormality,151,No,2,2,more chance
-20,59,Male,0,135,234,False,having ST-T wave abnormality,161,No,0,3,more chance
-21,44,Male,atypical angina,130,233,False,having ST-T wave abnormality,179,Yes,0,2,more chance
-22,42,Male,0,140,226,False,having ST-T wave abnormality,178,No,0,2,more chance
-23,61,Male,atypical angina,150,243,True,having ST-T wave abnormality,137,Yes,0,2,more chance
-24,40,Male,non-anginal pain,140,199,False,having ST-T wave abnormality,178,Yes,0,3,more chance
-25,71,Female,typical angina,160,302,False,having ST-T wave abnormality,162,No,2,2,more chance
-26,59,Male,atypical angina,150,212,True,having ST-T wave abnormality,157,No,0,2,more chance
-27,51,Male,atypical angina,110,175,False,having ST-T wave abnormality,123,No,0,2,more chance
-28,65,Female,atypical angina,140,417,True,normal,157,No,1,2,more chance
-29,53,Male,atypical angina,130,197,True,normal,152,No,0,2,more chance
-30,41,Female,typical angina,105,198,False,having ST-T wave abnormality,168,No,1,2,more chance
-31,65,Male,0,120,177,False,having ST-T wave abnormality,140,No,0,3,more chance
-32,44,Male,typical angina,130,219,False,normal,188,No,0,2,more chance
-33,54,Male,atypical angina,125,273,False,normal,152,No,1,2,more chance
-34,51,Male,non-anginal pain,125,213,False,normal,125,Yes,1,2,more chance
-35,46,Female,atypical angina,142,177,False,normal,160,Yes,0,2,more chance
-36,54,Female,atypical angina,135,304,True,having ST-T wave abnormality,170,No,0,2,more chance
-37,54,Male,atypical angina,150,232,False,normal,165,No,0,3,more chance
-38,65,Female,atypical angina,155,269,False,having ST-T wave abnormality,148,No,0,2,more chance
-39,65,Female,atypical angina,160,360,False,normal,151,No,0,2,more chance
-40,51,Female,atypical angina,140,308,False,normal,142,No,1,2,more chance
-41,48,Male,typical angina,130,245,False,normal,180,No,0,2,more chance
-42,45,Male,0,104,208,False,normal,148,Yes,0,2,more chance
-43,53,Female,0,130,264,False,normal,143,No,0,2,more chance
-44,39,Male,atypical angina,140,321,False,normal,182,No,0,2,more chance
-45,52,Male,typical angina,120,325,False,having ST-T wave abnormality,172,No,0,2,more chance
-46,44,Male,atypical angina,140,235,False,normal,180,No,0,2,more chance
-47,47,Male,atypical angina,138,257,False,normal,156,No,0,2,more chance
-48,53,Female,atypical angina,128,216,False,normal,115,No,0,0,more chance
-49,53,Female,0,138,234,False,normal,160,No,0,2,more chance
-50,51,Female,atypical angina,130,256,False,normal,149,No,0,2,more chance
-51,66,Male,0,120,302,False,normal,151,No,0,2,more chance
-52,62,Male,atypical angina,130,231,False,having ST-T wave abnormality,146,No,3,3,more chance
-53,44,Female,atypical angina,108,141,False,having ST-T wave abnormality,175,No,0,2,more chance
-54,63,Female,atypical angina,135,252,False,normal,172,No,0,2,more chance
-55,52,Male,typical angina,134,201,False,having ST-T wave abnormality,158,No,1,2,more chance
-56,48,Male,0,122,222,False,normal,186,No,0,2,more chance
-57,45,Male,0,115,260,False,normal,185,No,0,2,more chance
-58,34,Male,non-anginal pain,118,182,False,normal,174,No,0,2,more chance
-59,57,Female,0,128,303,False,normal,159,No,1,2,more chance
-60,71,Female,atypical angina,110,265,True,normal,130,No,1,2,more chance
-61,54,Male,typical angina,108,309,False,having ST-T wave abnormality,156,No,0,3,more chance
-62,52,Male,non-anginal pain,118,186,False,normal,190,No,0,1,more chance
-63,41,Male,typical angina,135,203,False,having ST-T wave abnormality,132,No,0,1,more chance
-64,58,Male,atypical angina,140,211,True,normal,165,No,0,2,more chance
-65,35,Female,0,138,183,False,having ST-T wave abnormality,182,No,0,2,more chance
-66,51,Male,atypical angina,100,222,False,having ST-T wave abnormality,143,Yes,0,2,more chance
-67,45,Female,typical angina,130,234,False,normal,175,No,0,2,more chance
-68,44,Male,typical angina,120,220,False,having ST-T wave abnormality,170,No,0,2,more chance
-69,62,Female,0,124,209,False,having ST-T wave abnormality,163,No,0,2,more chance
-70,54,Male,atypical angina,120,258,False,normal,147,No,0,3,more chance
-71,51,Male,atypical angina,94,227,False,having ST-T wave abnormality,154,Yes,1,3,more chance
-72,29,Male,typical angina,130,204,False,normal,202,No,0,2,more chance
-73,51,Male,0,140,261,False,normal,186,Yes,0,2,more chance
-74,43,Female,atypical angina,122,213,False,having ST-T wave abnormality,165,No,0,2,more chance
-75,55,Female,typical angina,135,250,False,normal,161,No,0,2,more chance
-76,51,Male,atypical angina,125,245,True,normal,166,No,0,2,more chance
-77,59,Male,typical angina,140,221,False,having ST-T wave abnormality,164,Yes,0,2,more chance
-78,52,Male,typical angina,128,205,True,having ST-T wave abnormality,184,No,0,2,more chance
-79,58,Male,atypical angina,105,240,False,normal,154,Yes,0,3,more chance
-80,41,Male,atypical angina,112,250,False,having ST-T wave abnormality,179,No,0,2,more chance
-81,45,Male,typical angina,128,308,False,normal,170,No,0,2,more chance
-82,60,Female,atypical angina,102,318,False,having ST-T wave abnormality,160,No,1,2,more chance
-83,52,Male,non-anginal pain,152,298,True,having ST-T wave abnormality,178,No,0,3,more chance
-84,42,Female,0,102,265,False,normal,122,No,0,2,more chance
-85,67,Female,atypical angina,115,564,False,normal,160,No,0,3,more chance
-86,68,Male,atypical angina,118,277,False,having ST-T wave abnormality,151,No,1,3,more chance
-87,46,Male,typical angina,101,197,True,having ST-T wave abnormality,156,No,0,3,more chance
-88,54,Female,atypical angina,110,214,False,having ST-T wave abnormality,158,No,0,2,more chance
-89,58,Female,0,100,248,False,normal,122,No,0,2,more chance
-90,48,Male,atypical angina,124,255,True,having ST-T wave abnormality,175,No,2,2,more chance
-91,57,Male,0,132,207,False,having ST-T wave abnormality,168,Yes,0,3,more chance
-92,52,Male,atypical angina,138,223,False,having ST-T wave abnormality,169,No,4,2,more chance
-93,54,Female,typical angina,132,288,True,normal,159,Yes,1,2,more chance
-94,45,Female,typical angina,112,160,False,having ST-T wave abnormality,138,No,0,2,more chance
-95,53,Male,0,142,226,False,normal,111,Yes,0,3,more chance
-96,62,Female,0,140,394,False,normal,157,No,0,2,more chance
-97,52,Male,0,108,233,True,having ST-T wave abnormality,147,No,3,3,more chance
-98,43,Male,atypical angina,130,315,False,having ST-T wave abnormality,162,No,1,2,more chance
-99,53,Male,atypical angina,130,246,True,normal,173,No,3,2,more chance
-100,42,Male,non-anginal pain,148,244,False,normal,178,No,2,2,more chance
-101,59,Male,non-anginal pain,178,270,False,normal,145,No,0,3,more chance
-102,63,Female,typical angina,140,195,False,having ST-T wave abnormality,179,No,2,2,more chance
-103,42,Male,atypical angina,120,240,True,having ST-T wave abnormality,194,No,0,3,more chance
-104,50,Male,atypical angina,129,196,False,having ST-T wave abnormality,163,No,0,2,more chance
-105,68,Female,atypical angina,120,211,False,normal,115,No,0,2,more chance
-106,69,Male,non-anginal pain,160,234,True,normal,131,No,1,2,more chance
-107,45,Female,0,138,236,False,normal,152,Yes,0,2,more chance
-108,50,Female,typical angina,120,244,False,having ST-T wave abnormality,162,No,0,2,more chance
-109,50,Female,0,110,254,False,normal,159,No,0,2,more chance
-110,64,Female,0,180,325,False,having ST-T wave abnormality,154,Yes,0,2,more chance
-111,57,Male,atypical angina,150,126,True,having ST-T wave abnormality,173,No,1,3,more chance
-112,64,Female,atypical angina,140,313,False,having ST-T wave abnormality,133,No,0,3,more chance
-113,43,Male,0,110,211,False,having ST-T wave abnormality,161,No,0,3,more chance
-114,55,Male,typical angina,130,262,False,having ST-T wave abnormality,155,No,0,2,more chance
-115,37,Female,atypical angina,120,215,False,having ST-T wave abnormality,170,No,0,2,more chance
-116,41,Male,atypical angina,130,214,False,normal,168,No,0,2,more chance
-117,56,Male,non-anginal pain,120,193,False,normal,162,No,0,3,more chance
-118,46,Female,typical angina,105,204,False,having ST-T wave abnormality,172,No,0,2,more chance
-119,46,Female,0,138,243,False,normal,152,Yes,0,2,more chance
-120,64,Female,0,130,303,False,having ST-T wave abnormality,122,No,2,2,more chance
-121,59,Male,0,138,271,False,normal,182,No,0,2,more chance
-122,41,Female,atypical angina,112,268,False,normal,172,Yes,0,2,more chance
-123,54,Female,atypical angina,108,267,False,normal,167,No,0,2,more chance
-124,39,Female,atypical angina,94,199,False,having ST-T wave abnormality,179,No,0,2,more chance
-125,34,Female,typical angina,118,210,False,having ST-T wave abnormality,192,No,0,2,more chance
-126,47,Male,0,112,204,False,having ST-T wave abnormality,143,No,0,2,more chance
-127,67,Female,atypical angina,152,277,False,having ST-T wave abnormality,172,No,1,2,more chance
-128,52,Female,atypical angina,136,196,False,normal,169,No,0,2,more chance
-129,74,Female,typical angina,120,269,False,normal,121,Yes,1,2,more chance
-130,54,Female,atypical angina,160,201,False,having ST-T wave abnormality,163,No,1,2,more chance
-131,49,Female,typical angina,134,271,False,having ST-T wave abnormality,162,No,0,2,more chance
-132,42,Male,typical angina,120,295,False,having ST-T wave abnormality,162,No,0,2,more chance
-133,41,Male,typical angina,110,235,False,having ST-T wave abnormality,153,No,0,2,more chance
-134,41,Female,typical angina,126,306,False,having ST-T wave abnormality,163,No,0,2,more chance
-135,49,Female,0,130,269,False,having ST-T wave abnormality,163,No,0,2,more chance
-136,60,Female,atypical angina,120,178,True,having ST-T wave abnormality,96,No,0,2,more chance
-137,62,Male,typical angina,128,208,True,normal,140,No,0,2,more chance
-138,57,Male,0,110,201,False,having ST-T wave abnormality,126,Yes,0,1,more chance
-139,64,Male,0,128,263,False,having ST-T wave abnormality,105,Yes,1,3,more chance
-140,51,Female,atypical angina,120,295,False,normal,157,No,0,2,more chance
-141,43,Male,0,115,303,False,having ST-T wave abnormality,181,No,0,2,more chance
-142,42,Female,atypical angina,120,209,False,having ST-T wave abnormality,173,No,0,2,more chance
-143,67,Female,0,106,223,False,having ST-T wave abnormality,142,No,2,2,more chance
-144,76,Female,atypical angina,140,197,False,showing probable or definite left ventricular hypertrophy Estes' criteria,116,No,0,2,more chance
-145,70,Male,typical angina,156,245,False,normal,143,No,0,2,more chance
-146,44,Female,atypical angina,118,242,False,having ST-T wave abnormality,149,No,1,2,more chance
-147,60,Female,non-anginal pain,150,240,False,having ST-T wave abnormality,171,No,0,2,more chance
-148,44,Male,atypical angina,120,226,False,having ST-T wave abnormality,169,No,0,2,more chance
-149,42,Male,atypical angina,130,180,False,having ST-T wave abnormality,150,No,0,2,more chance
-150,66,Male,0,160,228,False,normal,138,No,0,1,more chance
-151,71,Female,0,112,149,False,having ST-T wave abnormality,125,No,0,2,more chance
-152,64,Male,non-anginal pain,170,227,False,normal,155,No,0,3,more chance
-153,66,Female,atypical angina,146,278,False,normal,152,No,1,2,more chance
-154,39,Female,atypical angina,138,220,False,having ST-T wave abnormality,152,No,0,2,more chance
-155,58,Female,0,130,197,False,having ST-T wave abnormality,131,No,0,2,more chance
-156,47,Male,atypical angina,130,253,False,having ST-T wave abnormality,179,No,0,2,more chance
-157,35,Male,typical angina,122,192,False,having ST-T wave abnormality,174,No,0,2,more chance
-158,58,Male,typical angina,125,220,False,having ST-T wave abnormality,144,No,4,3,more chance
-159,56,Male,typical angina,130,221,False,normal,163,No,0,3,more chance
-160,56,Male,typical angina,120,240,False,having ST-T wave abnormality,169,No,0,2,more chance
-161,55,Female,typical angina,132,342,False,having ST-T wave abnormality,166,No,0,2,more chance
-162,41,Male,typical angina,120,157,False,having ST-T wave abnormality,182,No,0,2,more chance
-163,38,Male,atypical angina,138,175,False,having ST-T wave abnormality,173,No,4,2,more chance
-164,38,Male,atypical angina,138,175,False,having ST-T wave abnormality,173,No,4,2,more chance
-165,67,Male,0,160,286,False,normal,108,Yes,3,2,less chance
-166,67,Male,0,120,229,False,normal,129,Yes,2,3,less chance
-167,62,Female,0,140,268,False,normal,160,No,2,2,less chance
-168,63,Male,0,130,254,False,normal,147,No,1,3,less chance
-169,53,Male,0,140,203,True,normal,155,Yes,0,3,less chance
-170,56,Male,atypical angina,130,256,True,normal,142,Yes,1,1,less chance
-171,48,Male,typical angina,110,229,False,having ST-T wave abnormality,168,No,0,3,less chance
-172,58,Male,typical angina,120,284,False,normal,160,No,0,2,less chance
-173,58,Male,atypical angina,132,224,False,normal,173,No,2,3,less chance
-174,60,Male,0,130,206,False,normal,132,Yes,2,3,less chance
-175,40,Male,0,110,167,False,normal,114,Yes,0,3,less chance
-176,60,Male,0,117,230,True,having ST-T wave abnormality,160,Yes,2,3,less chance
-177,64,Male,atypical angina,140,335,False,having ST-T wave abnormality,158,No,0,2,less chance
-178,43,Male,0,120,177,False,normal,120,Yes,0,3,less chance
-179,57,Male,0,150,276,False,normal,112,Yes,1,1,less chance
-180,55,Male,0,132,353,False,having ST-T wave abnormality,132,Yes,1,3,less chance
-181,65,Female,0,150,225,False,normal,114,No,3,3,less chance
-182,61,Female,0,130,330,False,normal,169,No,0,2,less chance
-183,58,Male,atypical angina,112,230,False,normal,165,No,1,3,less chance
-184,50,Male,0,150,243,False,normal,128,No,0,3,less chance
-185,44,Male,0,112,290,False,normal,153,No,1,2,less chance
-186,60,Male,0,130,253,False,having ST-T wave abnormality,144,Yes,1,3,less chance
-187,54,Male,0,124,266,False,normal,109,Yes,1,3,less chance
-188,50,Male,atypical angina,140,233,False,having ST-T wave abnormality,163,No,1,3,less chance
-189,41,Male,0,110,172,False,normal,158,No,0,3,less chance
-190,51,Female,0,130,305,False,having ST-T wave abnormality,142,Yes,0,3,less chance
-191,58,Male,0,128,216,False,normal,131,Yes,3,3,less chance
-192,54,Male,0,120,188,False,having ST-T wave abnormality,113,No,1,3,less chance
-193,60,Male,0,145,282,False,normal,142,Yes,2,3,less chance
-194,60,Male,atypical angina,140,185,False,normal,155,No,0,2,less chance
-195,59,Male,0,170,326,False,normal,140,Yes,0,3,less chance
-196,46,Male,atypical angina,150,231,False,having ST-T wave abnormality,147,No,0,2,less chance
-197,67,Male,0,125,254,True,having ST-T wave abnormality,163,No,2,3,less chance
-198,62,Male,0,120,267,False,having ST-T wave abnormality,99,Yes,2,3,less chance
-199,65,Male,0,110,248,False,normal,158,No,2,1,less chance
-200,44,Male,0,110,197,False,normal,177,No,1,2,less chance
-201,60,Male,0,125,258,False,normal,141,Yes,1,3,less chance
-202,58,Male,0,150,270,False,normal,111,Yes,0,3,less chance
-203,68,Male,atypical angina,180,274,True,normal,150,Yes,0,3,less chance
-204,62,Female,0,160,164,False,normal,145,No,3,3,less chance
-205,52,Male,0,128,255,False,having ST-T wave abnormality,161,Yes,1,3,less chance
-206,59,Male,0,110,239,False,normal,142,Yes,1,3,less chance
-207,60,Female,0,150,258,False,normal,157,No,2,3,less chance
-208,49,Male,atypical angina,120,188,False,having ST-T wave abnormality,139,No,3,3,less chance
-209,59,Male,0,140,177,False,having ST-T wave abnormality,162,Yes,1,3,less chance
-210,57,Male,atypical angina,128,229,False,normal,150,No,1,3,less chance
-211,61,Male,0,120,260,False,having ST-T wave abnormality,140,Yes,1,3,less chance
-212,39,Male,0,118,219,False,having ST-T wave abnormality,140,No,0,3,less chance
-213,61,Female,0,145,307,False,normal,146,Yes,0,3,less chance
-214,56,Male,0,125,249,True,normal,144,Yes,1,2,less chance
-215,43,Female,0,132,341,True,normal,136,Yes,0,3,less chance
-216,62,Female,atypical angina,130,263,False,having ST-T wave abnormality,97,No,1,3,less chance
-217,63,Male,0,130,330,True,normal,132,Yes,3,3,less chance
-218,65,Male,0,135,254,False,normal,127,No,1,3,less chance
-219,48,Male,0,130,256,True,normal,150,Yes,2,3,less chance
-220,63,Female,0,150,407,False,normal,154,No,3,3,less chance
-221,55,Male,0,140,217,False,having ST-T wave abnormality,111,Yes,0,3,less chance
-222,65,Male,non-anginal pain,138,282,True,normal,174,No,1,2,less chance
-223,56,Female,0,200,288,True,normal,133,Yes,2,3,less chance
-224,54,Male,0,110,239,False,having ST-T wave abnormality,126,Yes,1,3,less chance
-225,70,Male,0,145,174,False,having ST-T wave abnormality,125,Yes,0,3,less chance
-226,62,Male,typical angina,120,281,False,normal,103,No,1,3,less chance
-227,35,Male,0,120,198,False,having ST-T wave abnormality,130,Yes,0,3,less chance
-228,59,Male,non-anginal pain,170,288,False,normal,159,No,0,3,less chance
-229,64,Male,atypical angina,125,309,False,having ST-T wave abnormality,131,Yes,0,3,less chance
-230,47,Male,atypical angina,108,243,False,having ST-T wave abnormality,152,No,0,2,less chance
-231,57,Male,0,165,289,True,normal,124,No,3,3,less chance
-232,55,Male,0,160,289,False,normal,145,Yes,1,3,less chance
-233,64,Male,0,120,246,False,normal,96,Yes,1,2,less chance
-234,70,Male,0,130,322,False,normal,109,No,3,2,less chance
-235,51,Male,0,140,299,False,having ST-T wave abnormality,173,Yes,0,3,less chance
-236,58,Male,0,125,300,False,normal,171,No,2,3,less chance
-237,60,Male,0,140,293,False,normal,170,No,2,3,less chance
-238,77,Male,0,125,304,False,normal,162,Yes,3,2,less chance
-239,35,Male,0,126,282,False,normal,156,Yes,0,3,less chance
-240,70,Male,atypical angina,160,269,False,having ST-T wave abnormality,112,Yes,1,3,less chance
-241,59,Female,0,174,249,False,having ST-T wave abnormality,143,Yes,0,2,less chance
-242,64,Male,0,145,212,False,normal,132,No,2,1,less chance
-243,57,Male,0,152,274,False,having ST-T wave abnormality,88,Yes,1,3,less chance
-244,56,Male,0,132,184,False,normal,105,Yes,1,1,less chance
-245,48,Male,0,124,274,False,normal,166,No,0,3,less chance
-246,56,Female,0,134,409,False,normal,150,Yes,2,3,less chance
-247,66,Male,typical angina,160,246,False,having ST-T wave abnormality,120,Yes,3,1,less chance
-248,54,Male,typical angina,192,283,False,normal,195,No,1,3,less chance
-249,69,Male,atypical angina,140,254,False,normal,146,No,3,3,less chance
-250,51,Male,0,140,298,False,having ST-T wave abnormality,122,Yes,3,3,less chance
-251,43,Male,0,132,247,True,normal,143,Yes,4,3,less chance
-252,62,Female,0,138,294,True,having ST-T wave abnormality,106,No,3,2,less chance
-253,67,Male,0,100,299,False,normal,125,Yes,2,2,less chance
-254,59,Male,non-anginal pain,160,273,False,normal,125,No,0,2,less chance
-255,45,Male,0,142,309,False,normal,147,Yes,3,3,less chance
-256,58,Male,0,128,259,False,normal,130,Yes,2,3,less chance
-257,50,Male,0,144,200,False,normal,126,Yes,0,3,less chance
-258,62,Female,0,150,244,False,having ST-T wave abnormality,154,Yes,0,2,less chance
-259,38,Male,non-anginal pain,120,231,False,having ST-T wave abnormality,182,Yes,0,3,less chance
-260,66,Female,0,178,228,True,having ST-T wave abnormality,165,Yes,2,3,less chance
-261,52,Male,0,112,230,False,having ST-T wave abnormality,160,No,1,2,less chance
-262,53,Male,0,123,282,False,having ST-T wave abnormality,95,Yes,2,3,less chance
-263,63,Female,0,108,269,False,having ST-T wave abnormality,169,Yes,2,2,less chance
-264,54,Male,0,110,206,False,normal,108,Yes,1,2,less chance
-265,66,Male,0,112,212,False,normal,132,Yes,1,2,less chance
-266,55,Female,0,180,327,False,showing probable or definite left ventricular hypertrophy Estes' criteria,117,Yes,0,2,less chance
-267,49,Male,atypical angina,118,149,False,normal,126,No,3,2,less chance
-268,54,Male,0,122,286,False,normal,116,Yes,2,2,less chance
-269,56,Male,0,130,283,True,normal,103,Yes,0,3,less chance
-270,46,Male,0,120,249,False,normal,144,No,0,3,less chance
-271,61,Male,non-anginal pain,134,234,False,having ST-T wave abnormality,145,No,2,2,less chance
-272,67,Male,0,120,237,False,having ST-T wave abnormality,71,No,0,2,less chance
-273,58,Male,0,100,234,False,having ST-T wave abnormality,156,No,1,3,less chance
-274,47,Male,0,110,275,False,normal,118,Yes,1,2,less chance
-275,52,Male,0,125,212,False,having ST-T wave abnormality,168,No,2,3,less chance
-276,58,Male,0,146,218,False,having ST-T wave abnormality,105,No,1,3,less chance
-277,57,Male,typical angina,124,261,False,having ST-T wave abnormality,141,No,0,3,less chance
-278,58,Female,typical angina,136,319,True,normal,152,No,2,2,less chance
-279,61,Male,0,138,166,False,normal,125,Yes,1,2,less chance
-280,42,Male,0,136,315,False,having ST-T wave abnormality,125,Yes,0,1,less chance
-281,52,Male,0,128,204,True,having ST-T wave abnormality,156,Yes,0,0,less chance
-282,59,Male,atypical angina,126,218,True,having ST-T wave abnormality,134,No,1,1,less chance
-283,40,Male,0,152,223,False,having ST-T wave abnormality,181,No,0,3,less chance
-284,61,Male,0,140,207,False,normal,138,Yes,1,3,less chance
-285,46,Male,0,140,311,False,having ST-T wave abnormality,120,Yes,2,3,less chance
-286,59,Male,non-anginal pain,134,204,False,having ST-T wave abnormality,162,No,2,2,less chance
-287,57,Male,typical angina,154,232,False,normal,164,No,1,2,less chance
-288,57,Male,0,110,335,False,having ST-T wave abnormality,143,Yes,1,3,less chance
-289,55,Female,0,128,205,False,showing probable or definite left ventricular hypertrophy Estes' criteria,130,Yes,1,3,less chance
-290,61,Male,0,148,203,False,having ST-T wave abnormality,161,No,1,3,less chance
-291,58,Male,0,114,318,False,showing probable or definite left ventricular hypertrophy Estes' criteria,140,No,3,1,less chance
-292,58,Female,0,170,225,True,normal,146,Yes,2,1,less chance
-293,67,Male,atypical angina,152,212,False,normal,150,No,0,3,less chance
-294,44,Male,0,120,169,False,having ST-T wave abnormality,144,Yes,0,1,less chance
-295,63,Male,0,140,187,False,normal,144,Yes,2,3,less chance
-296,63,Female,0,124,197,False,having ST-T wave abnormality,136,Yes,0,2,less chance
-297,59,Male,0,164,176,True,normal,90,No,2,1,less chance
-298,57,Female,0,140,241,False,having ST-T wave abnormality,123,Yes,0,3,less chance
-299,45,Male,non-anginal pain,110,264,False,having ST-T wave abnormality,132,No,0,3,less chance
-300,68,Male,0,144,193,True,having ST-T wave abnormality,141,No,2,3,less chance
-301,57,Male,0,130,131,False,having ST-T wave abnormality,115,Yes,1,3,less chance
-302,57,Female,typical angina,130,236,False,normal,174,No,1,2,less chance
+age,sex,chest_pain,resting_blood_pressure,chol,fasting_blood_sugar,rest_ecg,max_heart_rate,exercise_induced_angina,num_of_major_vessels,thal_rate,heart_attack_chance
+63,Male,non-anginal pain,145,233,True,normal,150,No,0,1,more chance
+37,Male,atypical angina,130,250,False,having ST-T wave abnormality,187,No,0,2,more chance
+41,Female,typical angina,130,204,False,normal,172,No,0,2,more chance
+56,Male,typical angina,120,236,False,having ST-T wave abnormality,178,No,0,2,more chance
+57,Female,0,120,354,False,having ST-T wave abnormality,163,Yes,0,2,more chance
+57,Male,0,140,192,False,having ST-T wave abnormality,148,No,0,1,more chance
+56,Female,typical angina,140,294,False,normal,153,No,0,2,more chance
+44,Male,typical angina,120,263,False,having ST-T wave abnormality,173,No,0,3,more chance
+52,Male,atypical angina,172,199,True,having ST-T wave abnormality,162,No,0,3,more chance
+57,Male,atypical angina,150,168,False,having ST-T wave abnormality,174,No,0,2,more chance
+54,Male,0,140,239,False,having ST-T wave abnormality,160,No,0,2,more chance
+48,Female,atypical angina,130,275,False,having ST-T wave abnormality,139,No,0,2,more chance
+49,Male,typical angina,130,266,False,having ST-T wave abnormality,171,No,0,2,more chance
+64,Male,non-anginal pain,110,211,False,normal,144,Yes,0,2,more chance
+58,Female,non-anginal pain,150,283,True,normal,162,No,0,2,more chance
+50,Female,atypical angina,120,219,False,having ST-T wave abnormality,158,No,0,2,more chance
+58,Female,atypical angina,120,340,False,having ST-T wave abnormality,172,No,0,2,more chance
+66,Female,non-anginal pain,150,226,False,having ST-T wave abnormality,114,No,0,2,more chance
+43,Male,0,150,247,False,having ST-T wave abnormality,171,No,0,2,more chance
+69,Female,non-anginal pain,140,239,False,having ST-T wave abnormality,151,No,2,2,more chance
+59,Male,0,135,234,False,having ST-T wave abnormality,161,No,0,3,more chance
+44,Male,atypical angina,130,233,False,having ST-T wave abnormality,179,Yes,0,2,more chance
+42,Male,0,140,226,False,having ST-T wave abnormality,178,No,0,2,more chance
+61,Male,atypical angina,150,243,True,having ST-T wave abnormality,137,Yes,0,2,more chance
+40,Male,non-anginal pain,140,199,False,having ST-T wave abnormality,178,Yes,0,3,more chance
+71,Female,typical angina,160,302,False,having ST-T wave abnormality,162,No,2,2,more chance
+59,Male,atypical angina,150,212,True,having ST-T wave abnormality,157,No,0,2,more chance
+51,Male,atypical angina,110,175,False,having ST-T wave abnormality,123,No,0,2,more chance
+65,Female,atypical angina,140,417,True,normal,157,No,1,2,more chance
+53,Male,atypical angina,130,197,True,normal,152,No,0,2,more chance
+41,Female,typical angina,105,198,False,having ST-T wave abnormality,168,No,1,2,more chance
+65,Male,0,120,177,False,having ST-T wave abnormality,140,No,0,3,more chance
+44,Male,typical angina,130,219,False,normal,188,No,0,2,more chance
+54,Male,atypical angina,125,273,False,normal,152,No,1,2,more chance
+51,Male,non-anginal pain,125,213,False,normal,125,Yes,1,2,more chance
+46,Female,atypical angina,142,177,False,normal,160,Yes,0,2,more chance
+54,Female,atypical angina,135,304,True,having ST-T wave abnormality,170,No,0,2,more chance
+54,Male,atypical angina,150,232,False,normal,165,No,0,3,more chance
+65,Female,atypical angina,155,269,False,having ST-T wave abnormality,148,No,0,2,more chance
+65,Female,atypical angina,160,360,False,normal,151,No,0,2,more chance
+51,Female,atypical angina,140,308,False,normal,142,No,1,2,more chance
+48,Male,typical angina,130,245,False,normal,180,No,0,2,more chance
+45,Male,0,104,208,False,normal,148,Yes,0,2,more chance
+53,Female,0,130,264,False,normal,143,No,0,2,more chance
+39,Male,atypical angina,140,321,False,normal,182,No,0,2,more chance
+52,Male,typical angina,120,325,False,having ST-T wave abnormality,172,No,0,2,more chance
+44,Male,atypical angina,140,235,False,normal,180,No,0,2,more chance
+47,Male,atypical angina,138,257,False,normal,156,No,0,2,more chance
+53,Female,atypical angina,128,216,False,normal,115,No,0,0,more chance
+53,Female,0,138,234,False,normal,160,No,0,2,more chance
+51,Female,atypical angina,130,256,False,normal,149,No,0,2,more chance
+66,Male,0,120,302,False,normal,151,No,0,2,more chance
+62,Male,atypical angina,130,231,False,having ST-T wave abnormality,146,No,3,3,more chance
+44,Female,atypical angina,108,141,False,having ST-T wave abnormality,175,No,0,2,more chance
+63,Female,atypical angina,135,252,False,normal,172,No,0,2,more chance
+52,Male,typical angina,134,201,False,having ST-T wave abnormality,158,No,1,2,more chance
+48,Male,0,122,222,False,normal,186,No,0,2,more chance
+45,Male,0,115,260,False,normal,185,No,0,2,more chance
+34,Male,non-anginal pain,118,182,False,normal,174,No,0,2,more chance
+57,Female,0,128,303,False,normal,159,No,1,2,more chance
+71,Female,atypical angina,110,265,True,normal,130,No,1,2,more chance
+54,Male,typical angina,108,309,False,having ST-T wave abnormality,156,No,0,3,more chance
+52,Male,non-anginal pain,118,186,False,normal,190,No,0,1,more chance
+41,Male,typical angina,135,203,False,having ST-T wave abnormality,132,No,0,1,more chance
+58,Male,atypical angina,140,211,True,normal,165,No,0,2,more chance
+35,Female,0,138,183,False,having ST-T wave abnormality,182,No,0,2,more chance
+51,Male,atypical angina,100,222,False,having ST-T wave abnormality,143,Yes,0,2,more chance
+45,Female,typical angina,130,234,False,normal,175,No,0,2,more chance
+44,Male,typical angina,120,220,False,having ST-T wave abnormality,170,No,0,2,more chance
+62,Female,0,124,209,False,having ST-T wave abnormality,163,No,0,2,more chance
+54,Male,atypical angina,120,258,False,normal,147,No,0,3,more chance
+51,Male,atypical angina,94,227,False,having ST-T wave abnormality,154,Yes,1,3,more chance
+29,Male,typical angina,130,204,False,normal,202,No,0,2,more chance
+51,Male,0,140,261,False,normal,186,Yes,0,2,more chance
+43,Female,atypical angina,122,213,False,having ST-T wave abnormality,165,No,0,2,more chance
+55,Female,typical angina,135,250,False,normal,161,No,0,2,more chance
+51,Male,atypical angina,125,245,True,normal,166,No,0,2,more chance
+59,Male,typical angina,140,221,False,having ST-T wave abnormality,164,Yes,0,2,more chance
+52,Male,typical angina,128,205,True,having ST-T wave abnormality,184,No,0,2,more chance
+58,Male,atypical angina,105,240,False,normal,154,Yes,0,3,more chance
+41,Male,atypical angina,112,250,False,having ST-T wave abnormality,179,No,0,2,more chance
+45,Male,typical angina,128,308,False,normal,170,No,0,2,more chance
+60,Female,atypical angina,102,318,False,having ST-T wave abnormality,160,No,1,2,more chance
+52,Male,non-anginal pain,152,298,True,having ST-T wave abnormality,178,No,0,3,more chance
+42,Female,0,102,265,False,normal,122,No,0,2,more chance
+67,Female,atypical angina,115,564,False,normal,160,No,0,3,more chance
+68,Male,atypical angina,118,277,False,having ST-T wave abnormality,151,No,1,3,more chance
+46,Male,typical angina,101,197,True,having ST-T wave abnormality,156,No,0,3,more chance
+54,Female,atypical angina,110,214,False,having ST-T wave abnormality,158,No,0,2,more chance
+58,Female,0,100,248,False,normal,122,No,0,2,more chance
+48,Male,atypical angina,124,255,True,having ST-T wave abnormality,175,No,2,2,more chance
+57,Male,0,132,207,False,having ST-T wave abnormality,168,Yes,0,3,more chance
+52,Male,atypical angina,138,223,False,having ST-T wave abnormality,169,No,4,2,more chance
+54,Female,typical angina,132,288,True,normal,159,Yes,1,2,more chance
+45,Female,typical angina,112,160,False,having ST-T wave abnormality,138,No,0,2,more chance
+53,Male,0,142,226,False,normal,111,Yes,0,3,more chance
+62,Female,0,140,394,False,normal,157,No,0,2,more chance
+52,Male,0,108,233,True,having ST-T wave abnormality,147,No,3,3,more chance
+43,Male,atypical angina,130,315,False,having ST-T wave abnormality,162,No,1,2,more chance
+53,Male,atypical angina,130,246,True,normal,173,No,3,2,more chance
+42,Male,non-anginal pain,148,244,False,normal,178,No,2,2,more chance
+59,Male,non-anginal pain,178,270,False,normal,145,No,0,3,more chance
+63,Female,typical angina,140,195,False,having ST-T wave abnormality,179,No,2,2,more chance
+42,Male,atypical angina,120,240,True,having ST-T wave abnormality,194,No,0,3,more chance
+50,Male,atypical angina,129,196,False,having ST-T wave abnormality,163,No,0,2,more chance
+68,Female,atypical angina,120,211,False,normal,115,No,0,2,more chance
+69,Male,non-anginal pain,160,234,True,normal,131,No,1,2,more chance
+45,Female,0,138,236,False,normal,152,Yes,0,2,more chance
+50,Female,typical angina,120,244,False,having ST-T wave abnormality,162,No,0,2,more chance
+50,Female,0,110,254,False,normal,159,No,0,2,more chance
+64,Female,0,180,325,False,having ST-T wave abnormality,154,Yes,0,2,more chance
+57,Male,atypical angina,150,126,True,having ST-T wave abnormality,173,No,1,3,more chance
+64,Female,atypical angina,140,313,False,having ST-T wave abnormality,133,No,0,3,more chance
+43,Male,0,110,211,False,having ST-T wave abnormality,161,No,0,3,more chance
+55,Male,typical angina,130,262,False,having ST-T wave abnormality,155,No,0,2,more chance
+37,Female,atypical angina,120,215,False,having ST-T wave abnormality,170,No,0,2,more chance
+41,Male,atypical angina,130,214,False,normal,168,No,0,2,more chance
+56,Male,non-anginal pain,120,193,False,normal,162,No,0,3,more chance
+46,Female,typical angina,105,204,False,having ST-T wave abnormality,172,No,0,2,more chance
+46,Female,0,138,243,False,normal,152,Yes,0,2,more chance
+64,Female,0,130,303,False,having ST-T wave abnormality,122,No,2,2,more chance
+59,Male,0,138,271,False,normal,182,No,0,2,more chance
+41,Female,atypical angina,112,268,False,normal,172,Yes,0,2,more chance
+54,Female,atypical angina,108,267,False,normal,167,No,0,2,more chance
+39,Female,atypical angina,94,199,False,having ST-T wave abnormality,179,No,0,2,more chance
+34,Female,typical angina,118,210,False,having ST-T wave abnormality,192,No,0,2,more chance
+47,Male,0,112,204,False,having ST-T wave abnormality,143,No,0,2,more chance
+67,Female,atypical angina,152,277,False,having ST-T wave abnormality,172,No,1,2,more chance
+52,Female,atypical angina,136,196,False,normal,169,No,0,2,more chance
+74,Female,typical angina,120,269,False,normal,121,Yes,1,2,more chance
+54,Female,atypical angina,160,201,False,having ST-T wave abnormality,163,No,1,2,more chance
+49,Female,typical angina,134,271,False,having ST-T wave abnormality,162,No,0,2,more chance
+42,Male,typical angina,120,295,False,having ST-T wave abnormality,162,No,0,2,more chance
+41,Male,typical angina,110,235,False,having ST-T wave abnormality,153,No,0,2,more chance
+41,Female,typical angina,126,306,False,having ST-T wave abnormality,163,No,0,2,more chance
+49,Female,0,130,269,False,having ST-T wave abnormality,163,No,0,2,more chance
+60,Female,atypical angina,120,178,True,having ST-T wave abnormality,96,No,0,2,more chance
+62,Male,typical angina,128,208,True,normal,140,No,0,2,more chance
+57,Male,0,110,201,False,having ST-T wave abnormality,126,Yes,0,1,more chance
+64,Male,0,128,263,False,having ST-T wave abnormality,105,Yes,1,3,more chance
+51,Female,atypical angina,120,295,False,normal,157,No,0,2,more chance
+43,Male,0,115,303,False,having ST-T wave abnormality,181,No,0,2,more chance
+42,Female,atypical angina,120,209,False,having ST-T wave abnormality,173,No,0,2,more chance
+67,Female,0,106,223,False,having ST-T wave abnormality,142,No,2,2,more chance
+76,Female,atypical angina,140,197,False,showing probable or definite left ventricular hypertrophy Estes' criteria,116,No,0,2,more chance
+70,Male,typical angina,156,245,False,normal,143,No,0,2,more chance
+44,Female,atypical angina,118,242,False,having ST-T wave abnormality,149,No,1,2,more chance
+60,Female,non-anginal pain,150,240,False,having ST-T wave abnormality,171,No,0,2,more chance
+44,Male,atypical angina,120,226,False,having ST-T wave abnormality,169,No,0,2,more chance
+42,Male,atypical angina,130,180,False,having ST-T wave abnormality,150,No,0,2,more chance
+66,Male,0,160,228,False,normal,138,No,0,1,more chance
+71,Female,0,112,149,False,having ST-T wave abnormality,125,No,0,2,more chance
+64,Male,non-anginal pain,170,227,False,normal,155,No,0,3,more chance
+66,Female,atypical angina,146,278,False,normal,152,No,1,2,more chance
+39,Female,atypical angina,138,220,False,having ST-T wave abnormality,152,No,0,2,more chance
+58,Female,0,130,197,False,having ST-T wave abnormality,131,No,0,2,more chance
+47,Male,atypical angina,130,253,False,having ST-T wave abnormality,179,No,0,2,more chance
+35,Male,typical angina,122,192,False,having ST-T wave abnormality,174,No,0,2,more chance
+58,Male,typical angina,125,220,False,having ST-T wave abnormality,144,No,4,3,more chance
+56,Male,typical angina,130,221,False,normal,163,No,0,3,more chance
+56,Male,typical angina,120,240,False,having ST-T wave abnormality,169,No,0,2,more chance
+55,Female,typical angina,132,342,False,having ST-T wave abnormality,166,No,0,2,more chance
+41,Male,typical angina,120,157,False,having ST-T wave abnormality,182,No,0,2,more chance
+38,Male,atypical angina,138,175,False,having ST-T wave abnormality,173,No,4,2,more chance
+38,Male,atypical angina,138,175,False,having ST-T wave abnormality,173,No,4,2,more chance
+67,Male,0,160,286,False,normal,108,Yes,3,2,less chance
+67,Male,0,120,229,False,normal,129,Yes,2,3,less chance
+62,Female,0,140,268,False,normal,160,No,2,2,less chance
+63,Male,0,130,254,False,normal,147,No,1,3,less chance
+53,Male,0,140,203,True,normal,155,Yes,0,3,less chance
+56,Male,atypical angina,130,256,True,normal,142,Yes,1,1,less chance
+48,Male,typical angina,110,229,False,having ST-T wave abnormality,168,No,0,3,less chance
+58,Male,typical angina,120,284,False,normal,160,No,0,2,less chance
+58,Male,atypical angina,132,224,False,normal,173,No,2,3,less chance
+60,Male,0,130,206,False,normal,132,Yes,2,3,less chance
+40,Male,0,110,167,False,normal,114,Yes,0,3,less chance
+60,Male,0,117,230,True,having ST-T wave abnormality,160,Yes,2,3,less chance
+64,Male,atypical angina,140,335,False,having ST-T wave abnormality,158,No,0,2,less chance
+43,Male,0,120,177,False,normal,120,Yes,0,3,less chance
+57,Male,0,150,276,False,normal,112,Yes,1,1,less chance
+55,Male,0,132,353,False,having ST-T wave abnormality,132,Yes,1,3,less chance
+65,Female,0,150,225,False,normal,114,No,3,3,less chance
+61,Female,0,130,330,False,normal,169,No,0,2,less chance
+58,Male,atypical angina,112,230,False,normal,165,No,1,3,less chance
+50,Male,0,150,243,False,normal,128,No,0,3,less chance
+44,Male,0,112,290,False,normal,153,No,1,2,less chance
+60,Male,0,130,253,False,having ST-T wave abnormality,144,Yes,1,3,less chance
+54,Male,0,124,266,False,normal,109,Yes,1,3,less chance
+50,Male,atypical angina,140,233,False,having ST-T wave abnormality,163,No,1,3,less chance
+41,Male,0,110,172,False,normal,158,No,0,3,less chance
+51,Female,0,130,305,False,having ST-T wave abnormality,142,Yes,0,3,less chance
+58,Male,0,128,216,False,normal,131,Yes,3,3,less chance
+54,Male,0,120,188,False,having ST-T wave abnormality,113,No,1,3,less chance
+60,Male,0,145,282,False,normal,142,Yes,2,3,less chance
+60,Male,atypical angina,140,185,False,normal,155,No,0,2,less chance
+59,Male,0,170,326,False,normal,140,Yes,0,3,less chance
+46,Male,atypical angina,150,231,False,having ST-T wave abnormality,147,No,0,2,less chance
+67,Male,0,125,254,True,having ST-T wave abnormality,163,No,2,3,less chance
+62,Male,0,120,267,False,having ST-T wave abnormality,99,Yes,2,3,less chance
+65,Male,0,110,248,False,normal,158,No,2,1,less chance
+44,Male,0,110,197,False,normal,177,No,1,2,less chance
+60,Male,0,125,258,False,normal,141,Yes,1,3,less chance
+58,Male,0,150,270,False,normal,111,Yes,0,3,less chance
+68,Male,atypical angina,180,274,True,normal,150,Yes,0,3,less chance
+62,Female,0,160,164,False,normal,145,No,3,3,less chance
+52,Male,0,128,255,False,having ST-T wave abnormality,161,Yes,1,3,less chance
+59,Male,0,110,239,False,normal,142,Yes,1,3,less chance
+60,Female,0,150,258,False,normal,157,No,2,3,less chance
+49,Male,atypical angina,120,188,False,having ST-T wave abnormality,139,No,3,3,less chance
+59,Male,0,140,177,False,having ST-T wave abnormality,162,Yes,1,3,less chance
+57,Male,atypical angina,128,229,False,normal,150,No,1,3,less chance
+61,Male,0,120,260,False,having ST-T wave abnormality,140,Yes,1,3,less chance
+39,Male,0,118,219,False,having ST-T wave abnormality,140,No,0,3,less chance
+61,Female,0,145,307,False,normal,146,Yes,0,3,less chance
+56,Male,0,125,249,True,normal,144,Yes,1,2,less chance
+43,Female,0,132,341,True,normal,136,Yes,0,3,less chance
+62,Female,atypical angina,130,263,False,having ST-T wave abnormality,97,No,1,3,less chance
+63,Male,0,130,330,True,normal,132,Yes,3,3,less chance
+65,Male,0,135,254,False,normal,127,No,1,3,less chance
+48,Male,0,130,256,True,normal,150,Yes,2,3,less chance
+63,Female,0,150,407,False,normal,154,No,3,3,less chance
+55,Male,0,140,217,False,having ST-T wave abnormality,111,Yes,0,3,less chance
+65,Male,non-anginal pain,138,282,True,normal,174,No,1,2,less chance
+56,Female,0,200,288,True,normal,133,Yes,2,3,less chance
+54,Male,0,110,239,False,having ST-T wave abnormality,126,Yes,1,3,less chance
+70,Male,0,145,174,False,having ST-T wave abnormality,125,Yes,0,3,less chance
+62,Male,typical angina,120,281,False,normal,103,No,1,3,less chance
+35,Male,0,120,198,False,having ST-T wave abnormality,130,Yes,0,3,less chance
+59,Male,non-anginal pain,170,288,False,normal,159,No,0,3,less chance
+64,Male,atypical angina,125,309,False,having ST-T wave abnormality,131,Yes,0,3,less chance
+47,Male,atypical angina,108,243,False,having ST-T wave abnormality,152,No,0,2,less chance
+57,Male,0,165,289,True,normal,124,No,3,3,less chance
+55,Male,0,160,289,False,normal,145,Yes,1,3,less chance
+64,Male,0,120,246,False,normal,96,Yes,1,2,less chance
+70,Male,0,130,322,False,normal,109,No,3,2,less chance
+51,Male,0,140,299,False,having ST-T wave abnormality,173,Yes,0,3,less chance
+58,Male,0,125,300,False,normal,171,No,2,3,less chance
+60,Male,0,140,293,False,normal,170,No,2,3,less chance
+77,Male,0,125,304,False,normal,162,Yes,3,2,less chance
+35,Male,0,126,282,False,normal,156,Yes,0,3,less chance
+70,Male,atypical angina,160,269,False,having ST-T wave abnormality,112,Yes,1,3,less chance
+59,Female,0,174,249,False,having ST-T wave abnormality,143,Yes,0,2,less chance
+64,Male,0,145,212,False,normal,132,No,2,1,less chance
+57,Male,0,152,274,False,having ST-T wave abnormality,88,Yes,1,3,less chance
+56,Male,0,132,184,False,normal,105,Yes,1,1,less chance
+48,Male,0,124,274,False,normal,166,No,0,3,less chance
+56,Female,0,134,409,False,normal,150,Yes,2,3,less chance
+66,Male,typical angina,160,246,False,having ST-T wave abnormality,120,Yes,3,1,less chance
+54,Male,typical angina,192,283,False,normal,195,No,1,3,less chance
+69,Male,atypical angina,140,254,False,normal,146,No,3,3,less chance
+51,Male,0,140,298,False,having ST-T wave abnormality,122,Yes,3,3,less chance
+43,Male,0,132,247,True,normal,143,Yes,4,3,less chance
+62,Female,0,138,294,True,having ST-T wave abnormality,106,No,3,2,less chance
+67,Male,0,100,299,False,normal,125,Yes,2,2,less chance
+59,Male,non-anginal pain,160,273,False,normal,125,No,0,2,less chance
+45,Male,0,142,309,False,normal,147,Yes,3,3,less chance
+58,Male,0,128,259,False,normal,130,Yes,2,3,less chance
+50,Male,0,144,200,False,normal,126,Yes,0,3,less chance
+62,Female,0,150,244,False,having ST-T wave abnormality,154,Yes,0,2,less chance
+38,Male,non-anginal pain,120,231,False,having ST-T wave abnormality,182,Yes,0,3,less chance
+66,Female,0,178,228,True,having ST-T wave abnormality,165,Yes,2,3,less chance
+52,Male,0,112,230,False,having ST-T wave abnormality,160,No,1,2,less chance
+53,Male,0,123,282,False,having ST-T wave abnormality,95,Yes,2,3,less chance
+63,Female,0,108,269,False,having ST-T wave abnormality,169,Yes,2,2,less chance
+54,Male,0,110,206,False,normal,108,Yes,1,2,less chance
+66,Male,0,112,212,False,normal,132,Yes,1,2,less chance
+55,Female,0,180,327,False,showing probable or definite left ventricular hypertrophy Estes' criteria,117,Yes,0,2,less chance
+49,Male,atypical angina,118,149,False,normal,126,No,3,2,less chance
+54,Male,0,122,286,False,normal,116,Yes,2,2,less chance
+56,Male,0,130,283,True,normal,103,Yes,0,3,less chance
+46,Male,0,120,249,False,normal,144,No,0,3,less chance
+61,Male,non-anginal pain,134,234,False,having ST-T wave abnormality,145,No,2,2,less chance
+67,Male,0,120,237,False,having ST-T wave abnormality,71,No,0,2,less chance
+58,Male,0,100,234,False,having ST-T wave abnormality,156,No,1,3,less chance
+47,Male,0,110,275,False,normal,118,Yes,1,2,less chance
+52,Male,0,125,212,False,having ST-T wave abnormality,168,No,2,3,less chance
+58,Male,0,146,218,False,having ST-T wave abnormality,105,No,1,3,less chance
+57,Male,typical angina,124,261,False,having ST-T wave abnormality,141,No,0,3,less chance
+58,Female,typical angina,136,319,True,normal,152,No,2,2,less chance
+61,Male,0,138,166,False,normal,125,Yes,1,2,less chance
+42,Male,0,136,315,False,having ST-T wave abnormality,125,Yes,0,1,less chance
+52,Male,0,128,204,True,having ST-T wave abnormality,156,Yes,0,0,less chance
+59,Male,atypical angina,126,218,True,having ST-T wave abnormality,134,No,1,1,less chance
+40,Male,0,152,223,False,having ST-T wave abnormality,181,No,0,3,less chance
+61,Male,0,140,207,False,normal,138,Yes,1,3,less chance
+46,Male,0,140,311,False,having ST-T wave abnormality,120,Yes,2,3,less chance
+59,Male,non-anginal pain,134,204,False,having ST-T wave abnormality,162,No,2,2,less chance
+57,Male,typical angina,154,232,False,normal,164,No,1,2,less chance
+57,Male,0,110,335,False,having ST-T wave abnormality,143,Yes,1,3,less chance
+55,Female,0,128,205,False,showing probable or definite left ventricular hypertrophy Estes' criteria,130,Yes,1,3,less chance
+61,Male,0,148,203,False,having ST-T wave abnormality,161,No,1,3,less chance
+58,Male,0,114,318,False,showing probable or definite left ventricular hypertrophy Estes' criteria,140,No,3,1,less chance
+58,Female,0,170,225,True,normal,146,Yes,2,1,less chance
+67,Male,atypical angina,152,212,False,normal,150,No,0,3,less chance
+44,Male,0,120,169,False,having ST-T wave abnormality,144,Yes,0,1,less chance
+63,Male,0,140,187,False,normal,144,Yes,2,3,less chance
+63,Female,0,124,197,False,having ST-T wave abnormality,136,Yes,0,2,less chance
+59,Male,0,164,176,True,normal,90,No,2,1,less chance
+57,Female,0,140,241,False,having ST-T wave abnormality,123,Yes,0,3,less chance
+45,Male,non-anginal pain,110,264,False,having ST-T wave abnormality,132,No,0,3,less chance
+68,Male,0,144,193,True,having ST-T wave abnormality,141,No,2,3,less chance
+57,Male,0,130,131,False,having ST-T wave abnormality,115,Yes,1,3,less chance
+57,Female,typical angina,130,236,False,normal,174,No,1,2,less chance
