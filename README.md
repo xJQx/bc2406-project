@@ -1,8 +1,19 @@
 # HeartDetect 💘
 
+![LIME](https://img.shields.io/badge/-Local%20Interpretable%20Model--agnostic%20Explanations%20(LIME)-00ABB3?style=flat-square)
+![SHAP](https://img.shields.io/badge/-SHapley%20Additive%20exPlanations%20(SHAP)-00ABB3?style=flat-square)
+
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F06032.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 An Analytical Model For Early Intervention Of Heart Disease, implemented in `2 stages`
+
+### Docs
+- [Report](https://github.com/xJQx/bc2406-project/blob/main/docs/BC2406_Sem7_Team%206_Report.pdf)
+- [Slide Deck](https://github.com/xJQx/bc2406-project/blob/main/docs/BC2406_Sem7_Team%206_Slides.pdf)
 
 ### Jupyter notebooks
 - [data-cleaning-preprocessing.ipynb](https://github.com/xJQx/bc2406-project/blob/main/data-cleaning-preprocessing.ipynb)
@@ -51,7 +62,7 @@ e) [stage2-modelling.ipynb](https://github.com/xJQx/bc2406-project/blob/main/sta
 <br/>
 
 ### 3. Understanding the various csv files (datasets)
-
+View the Data Dictionary [here.](https://github.com/xJQx/bc2406-project/blob/main/docs/BC2406_Sem7_Team%206_datalink_dataDictionary.rtf) <br>
 **Dataset created from the `data-cleaning-preprocessing.ipynb` notebook:**
 
     .
