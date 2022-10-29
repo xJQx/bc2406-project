@@ -43,7 +43,7 @@ e) [stage2-modelling.ipynb](https://github.com/xJQx/bc2406-project/blob/main/sta
     .
     ├── heart_pki_2020_original.csv       # original dataset
     |   ├── heart_pki_2020_cleaned.csv        # for EDA and visualization
-    |   └── heart_pki_2020_correlation.csv    # for EDA correlation (some OneHotEncoding done)
+    |   └── heart_pki_2020_correlation.csv    # for EDA correlation (IntegerEncoding done)
     |   └── heart_pki_2020_encoded.csv        # for analytical models (OneHotEncoding done)
     |
     ├── o2Saturation_original.csv         # original dataset
